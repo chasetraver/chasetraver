@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chasetraver
-- 👀 I’m interested in SQL, MySQL, working with databases
+- 👀 I’m interested in SQL, databases, and Python
 - 🌱 I’m currently working on mySQL projects to better learn the system
 - 📫 You can reach me at chasetraver@yahoo.com
