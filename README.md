@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chasetraver
-- 👀 I’m interested in SQL, databases, and Python
-- 🌱 I’m currently working on better understanding Python's libraries
+- 👀 I’m interested in APIs, Backend-development, and Python
+- 🌱 I’m currently working on learning javascript
 - 📫 You can reach me at chasetraver@yahoo.com
