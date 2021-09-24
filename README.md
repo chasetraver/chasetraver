@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chasetraver
-- 👀 I’m interested in APIs, Backend-development, and Python
-- 🌱 I’m currently working on learning javascript
+- 😮 I think APIs and Python are the coolest things ever.
+- 🧠 I’m currently learning javascript and node.js.
 - 📫 You can reach me at chasetraver@yahoo.com
