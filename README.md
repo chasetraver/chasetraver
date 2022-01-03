@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chasetraver
 - 😮 I think APIs and Python are the coolest things ever.
-- 🧠 I’m currently learning javascript and node.js.
+- 🧠 I’m currently working with the FlaskAPI library as much as possible, and I've been meaning to get around to learning Rust.
 - 📫 You can reach me at chasetraver@yahoo.com
